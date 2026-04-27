@@ -21,7 +21,8 @@
                     <div class="card">
                         <div class="card-body">
                             <p class="card-text">
-                                {{ __('Hello World!') }}
+                                {{ __('Hello World!
+                                kipokik') }}
                             </p>
                         </div>
                     </div>
